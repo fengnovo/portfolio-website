@@ -200,8 +200,8 @@ export const realProjects: RealProject[] = [
       userGrowth: '200% increase in profile visits',
       efficiency: 'Load time under 1 second globally'
     },
-    demoUrl: 'https://lulusir.dev',
-    githubUrl: 'https://github.com/lulusir/portfolio',
+    demoUrl: 'https://fengnovo.dev',
+    githubUrl: 'https://github.com/fengnovo/portfolio',
     featured: false,
     clientType: 'personal',
     industry: 'Personal Brand'

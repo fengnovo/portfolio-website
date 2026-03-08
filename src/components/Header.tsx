@@ -36,7 +36,7 @@ const Header: React.FC = () => {
                 <span className="text-white font-bold text-lg">L</span>
               </div>
               <span className="text-xl font-bold text-gray-900 dark:text-white">
-                Lulu Sir
+                fengnovo
               </span>
             </Link>
           </div>

@@ -34,14 +34,14 @@ export interface Achievement {
 }
 
 export const profile: Profile = {
-  name: 'Lulu Sir',
+  name: 'fengnovo',
   title: 'Full-Stack Developer & Problem Solver',
   bio: 'Passionate full-stack developer with expertise in building scalable web applications and solving complex technical challenges. I focus on clean code, user experience, and delivering solutions that make a real impact.',
   location: 'San Francisco Bay Area',
-  email: 'hello@lulusir.dev',
-  website: 'https://lulusir.dev',
-  github: 'https://github.com/lulusir',
-  linkedin: 'https://linkedin.com/in/lulusir',
+  email: 'hello@fengnovo.dev',
+  website: 'https://fengnovo.dev',
+  github: 'https://github.com/fengnovo',
+  linkedin: 'https://linkedin.com/in/fengnovo',
   experience: '5+ years',
   availability: 'available',
   services: [

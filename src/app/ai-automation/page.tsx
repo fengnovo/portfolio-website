@@ -310,7 +310,7 @@ export default function AIAutomation() {
               Start AI Project
             </a>
             <a
-              href="mailto:hello@lulusir.dev"
+              href="mailto:hello@fengnovo.dev"
               className="px-8 py-4 border-2 border-white text-white font-semibold rounded-xl hover:bg-white hover:text-green-600 transition-all duration-200"
             >
               Schedule Consultation

@@ -15,34 +15,34 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lulu Sir - Full-Stack Creative Developer & AI Specialist",
+  title: "fengnovo - Full-Stack Creative Developer & AI Specialist",
   description: "Portfolio showcasing expertise in AI integration, modern web development, visual design, and creative automation. Discover innovative solutions that blend technology with creativity.",
   keywords: ["AI", "Web Development", "Design", "Automation", "Full-Stack", "Creative Coding", "Portfolio"],
-  authors: [{ name: "Lulu Sir" }],
-  creator: "Lulu Sir",
-  publisher: "Lulu Sir",
+  authors: [{ name: "fengnovo" }],
+  creator: "fengnovo",
+  publisher: "fengnovo",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://lulusir.dev",
-    siteName: "Lulu Sir Portfolio",
-    title: "Lulu Sir - Full-Stack Creative Developer & AI Specialist",
+    url: "https://fengnovo.dev",
+    siteName: "fengnovo Portfolio",
+    title: "fengnovo - Full-Stack Creative Developer & AI Specialist",
     description: "Portfolio showcasing expertise in AI integration, modern web development, visual design, and creative automation.",
     images: [
       {
-        url: "https://lulusir.dev/og-image.png",
+        url: "https://fengnovo.dev/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Lulu Sir Portfolio"
+        alt: "fengnovo Portfolio"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "Lulu Sir - Full-Stack Creative Developer & AI Specialist",
+    title: "fengnovo - Full-Stack Creative Developer & AI Specialist",
     description: "Portfolio showcasing expertise in AI integration, modern web development, visual design, and creative automation.",
-    images: ["https://lulusir.dev/og-image.png"],
-    creator: "@lulusir"
+    images: ["https://fengnovo.dev/og-image.png"],
+    creator: "@fengnovo"
   },
   robots: {
     index: true,
