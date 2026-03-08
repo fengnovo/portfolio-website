@@ -1,13 +1,13 @@
 import React from 'react';
 import { profile } from '@/data/profile';
-import { skills } from '@/data/skills';
-import { skillCategories } from '@/data/skills';
+import { techSkills } from '@/data/tech-skills';
+import { skillCategories } from '@/data/tech-skills';
 import SkillBadge from '@/components/SkillBadge';
 
 export default function About() {
   const skillsByCategory = skillCategories.map(category => ({
     ...category,
-    skills: skills.filter(skill => skill.category === category.id)
+    skills: techSkills.filter(skill => skill.category === category.id)
   }));
 
   return (
