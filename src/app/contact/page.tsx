@@ -121,8 +121,8 @@ export default function Contact() {
                       {method.href !== '#' ? (
                         <a
                           href={method.href}
-                          target={method.href.startsWith('http') ? '_blank' : undefined}
-                          rel={method.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+                          target={method.href && method.href.startsWith('http') ? '_blank' : undefined}
+                          rel={method.href && method.href.startsWith('http') ? 'noopener noreferrer' : undefined}
                           className="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 transition-colors"
                         >
                           {method.value}

@@ -151,7 +151,6 @@ export default function Skills() {
                   <div key={skill.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm border border-gray-200 dark:border-gray-700 hover:shadow-md transition-shadow">
                     <div className="flex items-start justify-between mb-4">
                       <div className="flex items-center gap-3">
-                        <span className="text-2xl">{skill.icon}</span>
                         <div>
                           <h3 className="font-semibold text-gray-900 dark:text-white">{skill.name}</h3>
                           <div className={`text-sm font-medium ${getLevelColor(skill.level)}`}>
